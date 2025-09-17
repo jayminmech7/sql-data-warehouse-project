@@ -77,7 +77,7 @@ The Gold Layer of this warehouse is designed using a **star schema** for optimal
 - **dim_customers:** Dimension table with customer master data (e.g., demographics, identifiers).
 - **dim_products:** Dimension table with product master data (e.g., categories, cost, product line).
 
-*Full data model diagrams and ERDs are available in [`/docs/data_models.drawio`](docs/data_models.drawio).*
+*Full data model diagrams and ERDs are available in [`/docs/data_models.drawio`](docs/data_model.png).*
 
 ---
 
